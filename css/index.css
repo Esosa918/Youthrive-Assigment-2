@@ -1,0 +1,27 @@
+body {
+  background-color: gray;
+  margin: 0.8rem auto;
+}
+img {
+  width: 400px;
+  max-width: 100%;
+  height: auto;
+  margin: 2px 300px;
+}
+nav {
+  background-color: black;
+  a {
+    color: white;
+    padding: 2px;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+}
+h1 {
+  text-align: center;
+}
+.color {
+  color: white;
+}
